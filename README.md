@@ -1,4 +1,4 @@
-<image src='KakaoTalk_20221103_132946315.jpg' width=200 height=200></image>
+<image src='images/KakaoTalk_20221103_132946315.jpg.jpg' width=200 height=200></image>
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=NJS%20&fontSize=90)
 
