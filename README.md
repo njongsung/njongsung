@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=깃허브%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=NJS%20&fontSize=90)
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=njongsung)](https://github.com/njongsung)
 
